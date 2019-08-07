@@ -6,8 +6,6 @@ https://www.youtube.com/watch?v=dCdmF-xFMyc
 
 Netrin (DCC receptor) βactin
 
-Laminin
-
 ## Repellent
 
 Ephrinβ
