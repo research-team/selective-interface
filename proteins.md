@@ -4,8 +4,9 @@ https://www.youtube.com/watch?v=dCdmF-xFMyc
 
 ## Attractant
 
-Netrin (DCC receptor)
-βactin
+Netrin (DCC receptor) βactin
+
+Laminin
 
 ## Repellent
 
