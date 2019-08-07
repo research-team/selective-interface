@@ -3,9 +3,13 @@
 https://www.youtube.com/watch?v=dCdmF-xFMyc 
 
 ## Attractant
-Netrin
+
+Netrin (DCC receptor)
+βactin
 
 ## Repellent
-Ephrin\beta
+
+Ephrinβ
+
 Sema3A
  
