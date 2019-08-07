@@ -1,11 +1,11 @@
-#Proteins for axon guidance
+# Proteins for axon guidance
 
 https://www.youtube.com/watch?v=dCdmF-xFMyc 
 
-#Attractant
+## Attractant
 Netrin
 
-#Repellent
+## Repellent
 Ephrin\beta
 Sema3A
  
